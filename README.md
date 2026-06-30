@@ -6,27 +6,27 @@
 </p>
 
 <p align="center">
-  <a href="mailto:cloudy.abhii@gmail.com">📧 Email</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com">🐙 GitHub</a> &nbsp;|&nbsp;
-  <a href="https://leetcode.com">🧩 LeetCode</a>
+  <a href="mailto:cloudy.abhii@gmail.com"> Email</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com"> LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com"> GitHub</a> &nbsp;|&nbsp;
+  <a href="https://leetcode.com"> LeetCode</a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 🎓 B.Tech in Computer Science @ **IMS Engineering College, Ghaziabad** (CGPA: 7.7/10)
-- 🔭 Currently building full-stack and real-time web applications with the **MERN stack**
-- 🧠 Strong foundation in **Data Structures & Algorithms** — 250+ problems solved across LeetCode, HackerRank, and GFG
-- 🌐 Interested in **scalable systems**, backend architecture, and problem solving
-- 📍 Based in Ghaziabad, India
+-  B.Tech in Computer Science @ **IMS Engineering College, Ghaziabad** (CGPA: 7.7/10)
+-  Currently building full-stack and real-time web applications with the **MERN stack**
+-  Strong foundation in **Data Structures & Algorithms** — 250+ problems solved across LeetCode, HackerRank, and GFG
+-  Interested in **scalable systems**, backend architecture, and problem solving
+-  Based in Ghaziabad, India
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🖥️ [Real-Time Collaborative Code Editor](https://github.com)
+###  [Real-Time Collaborative Code Editor](https://github.com)
 > **MERN Stack · Socket.io · Monaco Editor**
 
 - Built a real-time collaborative code editor with WebSocket-based synchronization and room isolation
@@ -35,7 +35,7 @@
 
 ---
 
-### 📄 [Smart Resume Analyzer (ATS System)](https://github.com)
+###  [Smart Resume Analyzer (ATS System)](https://github.com)
 > **MERN Stack · PDF Parsing**
 
 - Extracts and processes resume data using `pdf-parse` for structured analysis
@@ -44,7 +44,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category | Technologies |
 |---|---|
@@ -57,17 +57,17 @@
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-- 🥇 **Rank 4** at VibeForge Hackathon — ADGIPS Delhi
-- 🧩 **250+ DSA problems** solved on LeetCode, HackerRank, GFG
-- 🏗️ Participated in **National Hackathon 4.0** — COER University, Roorkee
-- 📜 **Problem Solving & SQL** certificates — HackerRank
-- ☁️ **AWS Technical Essentials** certificate — AWS Skills
+-  **Rank 4** at VibeForge Hackathon — ADGIPS Delhi
+-  **250+ DSA problems** solved on LeetCode, HackerRank, GFG
+-  Participated in **National Hackathon 4.0** — COER University, Roorkee
+-  **Problem Solving & SQL** certificates — HackerRank
+-  **AWS Technical Essentials** certificate — AWS Skills
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbhiTyagi17&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
