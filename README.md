@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Abhi Tyagi 👋</h1>
+<h1 align="center">Hey there, I'm Abhi Tyagi </h1>
 
 <p align="center">
   <b>Software Engineering Student · MERN Stack Developer · DSA Enthusiast</b><br/>
