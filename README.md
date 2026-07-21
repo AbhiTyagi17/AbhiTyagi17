@@ -7,9 +7,9 @@
 
 <p align="center">
   <a href="mailto:cloudy.abhii@gmail.com"> Email</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com"> LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com"> GitHub</a> &nbsp;|&nbsp;
-  <a href="https://leetcode.com"> LeetCode</a>
+  <a href="https://www.linkedin.com/in/abhi-tyagi-522324214/"> LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/AbhiTyagi17/AbhiTyagi17"> GitHub</a> &nbsp;|&nbsp;
+  <a href="https://leetcode.com/u/abhi_tyagi_/"> LeetCode</a>
 </p>
 
 ---
