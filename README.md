@@ -18,7 +18,7 @@
 
 -  B.Tech in Computer Science @ **IMS Engineering College, Ghaziabad** (CGPA: 7.8/10)
 -  Currently building full-stack and real-time web applications with the **MERN stack**
--  Strong foundation in **Data Structures & Algorithms** — 250+ problems solved across LeetCode, HackerRank, and GFG
+-  Strong foundation in **Data Structures & Algorithms** — 270+ problems solved across LeetCode, HackerRank, and GFG
 -  Interested in **scalable systems**, backend architecture, and problem solving
 -  Based in Ghaziabad, India
 
