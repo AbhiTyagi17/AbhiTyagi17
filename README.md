@@ -3,7 +3,7 @@
 # Abhi Tyagi
 ### MERN Stack Developer · DSA Enthusiast · Open to Internships
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+real-time+web+apps+%F0%9F%9A%80;MERN+Stack+%7C+Socket.io+%7C+REST+APIs;270%2B+DSA+problems+solved+%F0%9F%A7%A0;Always+learning%2C+always+shipping+%E2%9C%8B)](https://github.com/AbhiTyagi17)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+real-time+web+apps;MERN+Stack+%7C+Socket.io+%7C+REST+APIs;270%2B+DSA+problems+solved;Always+learning%2C+always+shipping)](https://github.com/AbhiTyagi17)
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cloudy.abhii@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-tyagi-522324214/)
@@ -17,7 +17,7 @@
 
 ---
 
-##  About Me
+## About Me
 
 ```js
 const abhi = {
@@ -30,13 +30,13 @@ const abhi = {
   dsaSolved: "270+ problems across LeetCode · HackerRank · GFG",
   interests: ["Scalable Systems", "Backend Architecture", "Real-Time Apps"],
   openTo: "Internships & SWE Roles",
-  location: "Ghaziabad, India 🇮🇳",
+  location: "Ghaziabad, India",
 };
 ```
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -71,9 +71,9 @@ const abhi = {
 
 ---
 
-##  Projects
+## Projects
 
-###  Real-Time Collaborative Code Editor
+### Real-Time Collaborative Code Editor
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhiTyagi17)
 ![MERN](https://img.shields.io/badge/MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio)
@@ -81,31 +81,33 @@ const abhi = {
 
 > Multi-user code editor with real-time sync — think VS Code Live Share, built from scratch.
 
--  **WebSocket-based synchronization** with room isolation for concurrent multi-user edits
--  **Conflict resolution & disconnect handling** with low-latency updates
--  Data consistency maintained across all connected clients
+- **WebSocket-based synchronization** with room isolation for concurrent multi-user edits
+- **Conflict resolution & disconnect handling** with low-latency updates
+- Data consistency maintained across all connected clients
 
 ---
 
-###  Smart Resume Analyzer (ATS System)
+### Smart Resume Analyzer (ATS System)
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhiTyagi17)
 ![MERN](https://img.shields.io/badge/MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![PDF](https://img.shields.io/badge/pdf--parse-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)
 
 > Resume scorer that tells you exactly why you're getting filtered by ATS systems.
 
--  **Keyword-based scoring engine** that benchmarks resumes against job descriptions
--  Extracts structured data from PDFs using `pdf-parse`
--  Generates **actionable suggestions** to improve ATS compatibility and fill skill gaps
+- **Keyword-based scoring engine** that benchmarks resumes against job descriptions
+- Extracts structured data from PDFs using `pdf-parse`
+- Generates **actionable suggestions** to improve ATS compatibility and fill skill gaps
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AbhiTyagi17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiTyagi17&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=AbhiTyagi17&theme=tokyonight&hide_border=true" height="165"/>
 
@@ -113,33 +115,30 @@ const abhi = {
 
 ---
 
-##  LeetCode Stats
+## LeetCode Stats
 
 <div align="center">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/abhi_tyagi_?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/abhi_tyagi_/)
 
-![Easy](https://img.shields.io/badge/Easy-✅_Solved-success?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-🟡_Solving-yellow?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Total-270%2B_Problems-blue?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-Solved-success?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-270%2B_Problems-blue?style=for-the-badge)
 
 </div>
 
 ---
 
-##  Achievements
+## Achievements
 
-|  | Achievement |
-|---|---|
-|  | **Rank 4** — VibeForge Hackathon, ADGIPS Delhi |
-|  | **270+ DSA Problems** — LeetCode, HackerRank, GFG |
-|  | **National Hackathon 4.0** — COER University, Roorkee |
-|  | **Problem Solving & SQL** Certificates — HackerRank |
-|  | **AWS Technical Essentials** Certificate — AWS Skills |
+- **Rank 4** — VibeForge Hackathon, ADGIPS Delhi
+- **270+ DSA Problems** solved across LeetCode, HackerRank, and GFG
+- Participated in **National Hackathon 4.0** — COER University, Roorkee
+- **Problem Solving & SQL** Certificates — HackerRank
+- **AWS Technical Essentials** Certificate — AWS Skills
 
 ---
 
-##  Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -151,7 +150,7 @@ const abhi = {
 
 <div align="center">
 
-###  Let's connect and build something awesome!
+### Let's connect and build something awesome
 
 [![LinkedIn](https://img.shields.io/badge/Hit_me_up_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-tyagi-522324214/)
 
