@@ -27,7 +27,7 @@ const abhi = {
   cgpa: 7.8,
   stack: ["MongoDB", "Express.js", "React.js", "Node.js"],
   currentlyBuilding: "Deployment Automation Platform (Mini-Heroku)",
-  dsaSolved: "270+ problems across LeetCode · HackerRank · GFG",
+  dsaSolved: "300+ problems across LeetCode · HackerRank · GFG",
   interests: ["Scalable Systems", "Backend Architecture", "Real-Time Apps"],
   openTo: "Internships & SWE Roles",
   location: "Ghaziabad, India",
