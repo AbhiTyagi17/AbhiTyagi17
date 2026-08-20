@@ -3,7 +3,7 @@
 # Abhi Tyagi
 ### MERN Stack Developer · DSA Enthusiast · Open to Internships
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+real-time+web+apps;MERN+Stack+%7C+Socket.io+%7C+REST+APIs;270%2B+DSA+problems+solved;Always+learning%2C+always+shipping)](https://github.com/AbhiTyagi17)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+real-time+web+apps;MERN+Stack+%7C+Socket.io+%7C+REST+APIs;300%2B+DSA+problems+solved;Always+learning%2C+always+shipping)](https://github.com/AbhiTyagi17)
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cloudy.abhii@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-tyagi-522324214/)
