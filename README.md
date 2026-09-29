@@ -131,7 +131,7 @@ const abhi = {
 ## Achievements
 
 - **Rank 4** — VibeForge Hackathon, ADGIPS Delhi
-- **270+ DSA Problems** solved across LeetCode, HackerRank, and GFG
+- **300+ DSA Problems** solved across LeetCode, HackerRank, and GFG
 - Participated in **National Hackathon 4.0** — COER University, Roorkee
 - **Problem Solving & SQL** Certificates — HackerRank
 - **AWS Technical Essentials** Certificate — AWS Skills
